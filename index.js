@@ -1,16 +1,16 @@
 module.exports.log = (code, msg, data) => {
-        if($code){
+        if(!code){
             code = null;
         }
-        if($msg){
+        if(!msg){
             msg = null;
         }
-        if($data){
+        if(!data){
             data = null;
         }
         return (`${code}, ${msg}, ${data}`)
 }
 
 module.exports.welcome= (name) => {
-    console.log(`Hello ${name}`)
+    return (`Hello ${name}`)
 }

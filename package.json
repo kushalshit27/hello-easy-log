@@ -1,6 +1,6 @@
 {
-  "name": "easy-log",
-  "version": "0.1.0",
+  "name": "hello-easy-log",
+  "version": "0.1.2",
   "description": "easy console log ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kushalshit27/easy-log.git"
+    "url": "git+https://github.com/kushalshit27/hello-easy-log.git"
   },
   "keywords": [
     "easy",
@@ -17,7 +17,7 @@
   "author": "kushalshit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kushalshit27/easy-log/issues"
+    "url": "https://github.com/kushalshit27/hello-easy-log/issues"
   },
-  "homepage": "https://github.com/kushalshit27/easy-log#readme"
+  "homepage": "https://github.com/kushalshit27/hello-easy-log#readme"
 }
