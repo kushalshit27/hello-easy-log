@@ -1,6 +1,6 @@
 {
   "name": "hello-easy-log",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "easy console log ",
   "main": "index.js",
   "scripts": {
